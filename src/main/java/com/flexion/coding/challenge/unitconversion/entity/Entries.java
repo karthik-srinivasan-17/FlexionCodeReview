@@ -4,7 +4,9 @@ package com.flexion.coding.challenge.unitconversion.entity;
 
 public class Entries {
 
-	 public String fromMeasurement;
+	public int id;
+	
+	public String fromMeasurement;
 	 public String toMeasurement;
 	 public double askedValue;
 	 public double writtenValue;
@@ -39,5 +41,11 @@ public class Entries {
 	public void setResult(String result) {
 		this.result = result;
 	}
+	 public int getId() {
+			return id;
+		}
+		public void setId(int id) {
+			this.id = id;
+		}
 	 
 }

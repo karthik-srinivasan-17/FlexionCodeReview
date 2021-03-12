@@ -1,5 +1,40 @@
 
-<div class="mrgnbtm">
+<div class="container">
+  <div class="row">
+    <div class="col-md-7 marginB">
+      <h2>Check Unit Conversion</h2>
+     <form [formGroup]="unitForm" (ngSubmit)="onSubmit()">
+        <div class="row">
+          <div class="form-group col-md-6">
+            <label for="exampleAskedValue">Asked Value in Exam</label>
+            <input type="text" class="form-control" formControlName="askedValue" id="exampleAskedValue" aria-describedby="emailHelp" placeholder="Asked Value">
+          </div>
+          <div class="form-group col-md-6">
+            <label for="exampleFromMeasurement">From Unit of Measurement</label>
+            <input type="text" class="form-control" formControlName="fromMeasurement" id="exampleFromMeasurement" placeholder="From Unit Measurement">
+          </div>
+        </div>
+        <div class="row">
+          <div class="form-group col-md-12">
+            <label for="exampleToMeasurement">To Unit of Measurement</label>
+            <input type="text" class="form-control" formControlName="toMeasurement" id="exampleToMeasurement" aria-describedby="emailHelp" placeholder="To Unit Measurement">
+          </div>
+        </div>
+        <div class="row">
+          <div class="form-group col-md-12">
+            <label for="exampleWrittenValue">Written Value</label>
+            <input type="text" class="form-control" formControlName="writtenValue" id="exampleWrittenValue" aria-describedby="emailHelp" placeholder="Written Value">
+          </div>
+        </div>
+        <button type="submit" [disabled]="!unitForm.valid" class="btn btn-danger">CheckConversion</button>
+      </form>
+    </div>
+
+  </div>
+</div>
+
+
+<div class="marginB">
   <app-entries *ngIf="entries.length !== 0" [entries]="entries"></app-entries>
 </div>
 <router-outlet></router-outlet>
