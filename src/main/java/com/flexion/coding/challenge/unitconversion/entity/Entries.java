@@ -5,10 +5,11 @@ package com.flexion.coding.challenge.unitconversion.entity;
 public class Entries {
 
 	public int id;
-	
+	public String ConversionType;
 	public String fromMeasurement;
 	 public String toMeasurement;
-	 public double askedValue;
+
+	public double askedValue;
 	 public double writtenValue;
 	 public String result;
 	public String getFromMeasurement() {
@@ -47,5 +48,10 @@ public class Entries {
 		public void setId(int id) {
 			this.id = id;
 		}
-	 
+		 public String getConversionType() {
+				return ConversionType;
+			}
+			public void setConversionType(String conversionType) {
+				ConversionType = conversionType;
+			}
 }

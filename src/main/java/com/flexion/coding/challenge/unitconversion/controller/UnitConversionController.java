@@ -1,5 +1,6 @@
 package com.flexion.coding.challenge.unitconversion.controller;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -7,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.flexion.coding.challenge.unitconversion.entity.Entries;
+import com.flexion.coding.challenge.unitconversion.service.UnitConversionService;
 
 import lombok.extern.slf4j.Slf4j;
 
@@ -15,14 +17,13 @@ import lombok.extern.slf4j.Slf4j;
 @RequestMapping("/api/")
 public class UnitConversionController {
 	
+	@Autowired
+	UnitConversionService ucService;
+	
 	@PostMapping(path = "entry")
 	public ResponseEntity<?> checkConversion(@RequestBody Entries entries){
 		Entries resource = new Entries();
-		resource.setAskedValue(84.5);
-		resource.setFromMeasurement("Fahrenhiet");
-		resource.setToMeasurement("Rankine");
-		resource.setWrittenValue(1234.25);
-		resource.setResult("INCORRECT");
+		resource = ucService.checkConversion(entries);
 		return ResponseEntity.ok(resource);
 	}
 
