@@ -1,4 +1,4 @@
-package com.flexion.coding.challenge.UnitConversion;
+package com.flexion.coding.challenge.unitconversion;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
