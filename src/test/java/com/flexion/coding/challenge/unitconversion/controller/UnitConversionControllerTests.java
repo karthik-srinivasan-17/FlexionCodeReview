@@ -20,6 +20,7 @@ class UnitConversionControllerTests {
 	 @Test
 	  public void testCheckConversionCorrect() {
 		 Entries sampleEntry = new Entries();
+		 //sampleEntry.setId(1L);
 		 sampleEntry.setAskedValue("1.0");
 		 sampleEntry.setConversionType(ConversionType.TEMPERATURE.toString());
 		 sampleEntry.setFromMeasurement(Temperature.CELSIUS.toString());
@@ -35,6 +36,7 @@ class UnitConversionControllerTests {
 	 @Test
 	  public void testCheckConversionIncorrect() {
 		 Entries sampleEntry = new Entries();
+		 //sampleEntry.setId(2L);
 		 sampleEntry.setAskedValue("2.0");
 		 sampleEntry.setConversionType(ConversionType.TEMPERATURE.toString());
 		 sampleEntry.setFromMeasurement(Temperature.CELSIUS.toString());

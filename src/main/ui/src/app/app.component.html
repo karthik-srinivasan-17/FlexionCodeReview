@@ -2,21 +2,27 @@
 
 <div>
   
- 
+         <div> <h2 >Unit Conversion Check</h2></div>
   <div class="container-fluid">
+
     <div class="row">
       <div class="col-sm-8">
-        <div  text-align: center> <h2 >Unit Conversion Check</h2></div>
+
         <form [formGroup]="unitForm" (ngSubmit)="onSubmit()">
-          <div>
-            <div class="form-group">
-              <label for="exampleConvertionType">Select the type of conversion &nbsp; : </label>
+  
+
+   
+     <div class="form-group ">
+             <label for="exampleConvertionType">Select the type of conversion &nbsp; : </label>
               <select class="form-control" formControlName="conversionType" id="exampleConvertionType"
                 (change)="changeUnit($event)">
                 <option disabled selected value>Select Type of Conversion</option>
                 <option *ngFor="let type of type">{{type}}</option>
               </select>
             </div>
+
+
+           
             <div class="form-group">
               <label for="exampleAskedValue">Asked Value in Exam &nbsp; : </label>
               <input type="text" class="form-control" formControlName="askedValue" id="exampleAskedValue"
@@ -52,7 +58,7 @@
 
              
             </div>
-          </div>
+   
            <input type="submit" [disabled]="!unitForm.valid" value="Check Conversion" class="btn btn-danger">
         </form>
         
@@ -61,6 +67,7 @@
         <div class="div2"><h1 >{{result}}</h1>  </div>
       </div>
     </div>
+
   </div>
 
 

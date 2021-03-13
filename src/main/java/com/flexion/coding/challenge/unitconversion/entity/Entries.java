@@ -1,13 +1,43 @@
 package com.flexion.coding.challenge.unitconversion.entity;
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+
+
+import javax.persistence.Column;
+import javax.persistence.Id;
+import javax.validation.constraints.NotNull;
+
+import lombok.Data;
+
+
+@Entity
+@Data
 public class Entries {
 
-	public int id;
+	
+	@Id
+	@Column
+	@GeneratedValue
+	public long id;
+	@Column
+	@NotNull
 	public String ConversionType;
+	
+	@Column
+	@NotNull
 	public String fromMeasurement;
+	@Column
+	@NotNull
 	public String toMeasurement;
+	@Column
+	@NotNull
 	public String askedValue;
+	@Column
+	@NotNull
 	public String writtenValue;
+	@Column
+	@NotNull
 	public String result;
 
 	public String getFromMeasurement() {
@@ -50,11 +80,11 @@ public class Entries {
 		this.result = result;
 	}
 
-	public int getId() {
+	public long getId() {
 		return id;
 	}
 
-	public void setId(int id) {
+	public void setId(long id) {
 		this.id = id;
 	}
 
