@@ -14,8 +14,13 @@ public class UnitConversionService {
     	boolean validate = false;
     	UnitFactory unitFactory = new UnitFactory();
     	Unit unit = unitFactory.getUnitConvertorObject(entries.getConversionType());
-    	validate = unit.checkConversion(entries.getFromMeasurement(),
-    				entries.getToMeasurement(), entries.getAskedValue(), entries.getWrittenValue());
+    	try {
+    		validate = unit.checkConversion(entries.getFromMeasurement(),
+    				entries.getToMeasurement(), Double.parseDouble(entries.getAskedValue()) , Double.parseDouble(entries.getWrittenValue()));
+    	}catch(NullPointerException | NumberFormatException e ) {
+    		entries.setResult("INVALID");
+    		return entries;
+    	}
 
     	if (validate) {
     		entries.setResult("CORRECT");

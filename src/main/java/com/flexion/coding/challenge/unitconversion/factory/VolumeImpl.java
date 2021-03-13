@@ -11,13 +11,7 @@ public class VolumeImpl implements Unit {
 		
 		 String constString = fromUnit+"_to_"+toUnit;
 		 double multiplier = 1;
-		 try {
-			 multiplier = Constants.getValue(constString);
-		} catch (ReflectiveOperationException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			
-		}
+		 multiplier = Constants.getValue(constString);
 		 double result = askedValue * multiplier;
 		 return Math.round(result * 10) == Math.round(studentResponse * 10);
 	

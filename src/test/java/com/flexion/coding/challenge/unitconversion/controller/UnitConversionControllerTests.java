@@ -20,11 +20,11 @@ class UnitConversionControllerTests {
 	 @Test
 	  public void testCheckConversionCorrect() {
 		 Entries sampleEntry = new Entries();
-		 sampleEntry.setAskedValue(1.0);
+		 sampleEntry.setAskedValue("1.0");
 		 sampleEntry.setConversionType(ConversionType.TEMPERATURE.toString());
 		 sampleEntry.setFromMeasurement(Temperature.CELSIUS.toString());
 		 sampleEntry.setToMeasurement(Temperature.FAHRENHEIT.toString());
-		 sampleEntry.setWrittenValue(33.8);
+		 sampleEntry.setWrittenValue("33.8");
 		 ResponseEntity<?> responseEntry =  ucController.checkConversion(sampleEntry);
 		 assertEquals(responseEntry.getStatusCodeValue(),HttpStatus.OK.value());
 		 Entries resultEntry = (Entries) responseEntry.getBody();
@@ -35,11 +35,11 @@ class UnitConversionControllerTests {
 	 @Test
 	  public void testCheckConversionIncorrect() {
 		 Entries sampleEntry = new Entries();
-		 sampleEntry.setAskedValue(2.0);
+		 sampleEntry.setAskedValue("2.0");
 		 sampleEntry.setConversionType(ConversionType.TEMPERATURE.toString());
 		 sampleEntry.setFromMeasurement(Temperature.CELSIUS.toString());
 		 sampleEntry.setToMeasurement(Temperature.FAHRENHEIT.toString());
-		 sampleEntry.setWrittenValue(33.8);
+		 sampleEntry.setWrittenValue("33.8");
 		 ResponseEntity<?> responseEntry =  ucController.checkConversion(sampleEntry);
 		 assertEquals(responseEntry.getStatusCodeValue(),HttpStatus.OK.value());
 		 Entries resultEntry = (Entries) responseEntry.getBody();

@@ -10,13 +10,7 @@ public class TemperatureImpl implements Unit {
 		// TODO Auto-generated method stub
 		 String constString = fromUnit+"_to_"+toUnit;
 		 double additional = 0.0;
-		 try {
-			 additional = Constants.getValue(constString) - 1.0;
-		} catch (ReflectiveOperationException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			
-		}
+		 additional = Constants.getValue(constString) - 1.0;
 		 double result = askedValue + additional;
 		 return Math.round(result * 10) == Math.round(studentResponse * 10);
 	}

@@ -53,10 +53,26 @@ public final  class Constants {
 
 
 
-public static Double getValue(String str) throws ReflectiveOperationException {
+public static Double getValue(String str) {
 	Constants field = new Constants(); 
-	 Field fieldsOfConstantsClass = Constants.class.getField(str); 
-	 Object value=fieldsOfConstantsClass.get(field);
+	 Field fieldsOfConstantsClass;
+	 Object value = null;
+	try {
+		fieldsOfConstantsClass = Constants.class.getField(str);
+		value = fieldsOfConstantsClass.get(field);
+	} catch (NoSuchFieldException | SecurityException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+		return null;
+	} catch (IllegalArgumentException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+		return null;
+	} catch (IllegalAccessException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+		return null;
+	}
 	return (Double) value;
 }
 }
