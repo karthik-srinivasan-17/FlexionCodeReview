@@ -7,11 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.util.Assert;
-import org.springframework.web.bind.annotation.RequestBody;
-
 import com.flexion.coding.challenge.unitconversion.entity.Entries;
-import com.flexion.coding.challenge.unitconversion.service.UnitConversionService;
 import com.flexion.coding.challenge.unitconversion.utilities.ConversionType;
 import com.flexion.coding.challenge.unitconversion.utilities.Temperature;
 
@@ -22,16 +18,32 @@ class UnitConversionControllerTests {
 	UnitConversionController ucController;
 
 	 @Test
-	  public void testCheckConversion() {
+	  public void testCheckConversionCorrect() {
 		 Entries sampleEntry = new Entries();
 		 sampleEntry.setAskedValue(1.0);
-		 sampleEntry.setConversionType(ConversionType.Temperature.toString());
+		 sampleEntry.setConversionType(ConversionType.TEMPERATURE.toString());
 		 sampleEntry.setFromMeasurement(Temperature.CELSIUS.toString());
 		 sampleEntry.setToMeasurement(Temperature.FAHRENHEIT.toString());
-		 sampleEntry.setWrittenValue(2.3);
+		 sampleEntry.setWrittenValue(33.8);
 		 ResponseEntity<?> responseEntry =  ucController.checkConversion(sampleEntry);
-		 Entries resultEntry= (Entries)responseEntry.getBody();
 		 assertEquals(responseEntry.getStatusCodeValue(),HttpStatus.OK.value());
-		
+		 Entries resultEntry = (Entries) responseEntry.getBody();
+		 System.out.println(responseEntry.getBody().toString());
+		 assertEquals(resultEntry.getResult(),"CORRECT");
+	  }
+	 
+	 @Test
+	  public void testCheckConversionIncorrect() {
+		 Entries sampleEntry = new Entries();
+		 sampleEntry.setAskedValue(2.0);
+		 sampleEntry.setConversionType(ConversionType.TEMPERATURE.toString());
+		 sampleEntry.setFromMeasurement(Temperature.CELSIUS.toString());
+		 sampleEntry.setToMeasurement(Temperature.FAHRENHEIT.toString());
+		 sampleEntry.setWrittenValue(33.8);
+		 ResponseEntity<?> responseEntry =  ucController.checkConversion(sampleEntry);
+		 assertEquals(responseEntry.getStatusCodeValue(),HttpStatus.OK.value());
+		 Entries resultEntry = (Entries) responseEntry.getBody();
+		 System.out.println(responseEntry.getBody().toString());
+		 assertEquals(resultEntry.getResult(),"INCORRECT");
 	  }
 }

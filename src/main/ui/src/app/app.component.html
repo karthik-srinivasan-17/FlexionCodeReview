@@ -1,33 +1,61 @@
-
 <div class="container">
   <div class="row">
     <div class="col-md-7 marginB">
       <h2>Check Unit Conversion</h2>
-     <form [formGroup]="unitForm" (ngSubmit)="onSubmit()">
+      <form [formGroup]="unitForm" (ngSubmit)="onSubmit()">
+        <div class="row">
+          <div class="form-group col-md-6">
+            <label for="exampleConvertionType">Type of Conversion</label>
+     <!--        <input type="text" class="form-control" formControlName="conversionType" id="exampleConvertionType"
+               placeholder="Asked Value"> -->
+                 <select class="form-control" formControlName="conversionType" id="exampleConvertionType" (change)="changeUnit($event)" >
+                     
+              <option disabled>Select Type of Conversion</option>
+              <option *ngFor="let type of type">{{type}}</option>
+            </select>
+          </div>
+        </div>
         <div class="row">
           <div class="form-group col-md-6">
             <label for="exampleAskedValue">Asked Value in Exam</label>
-            <input type="text" class="form-control" formControlName="askedValue" id="exampleAskedValue" aria-describedby="emailHelp" placeholder="Asked Value">
+            <input type="text" class="form-control" formControlName="askedValue" id="exampleAskedValue"
+               placeholder="Asked Value">
           </div>
+        </div>
+        <div class="row">
           <div class="form-group col-md-6">
             <label for="exampleFromMeasurement">From Unit of Measurement</label>
-            <input type="text" class="form-control" formControlName="fromMeasurement" id="exampleFromMeasurement" placeholder="From Unit Measurement">
+            <!--  <input type="text" class="form-control" formControlName="fromMeasurement" id="exampleFromMeasurement" placeholder="From Unit Measurement"> -->
+            <select class="form-control" formControlName="fromMeasurement" id="exampleFromMeasurement" >
+              <option disabled>Select Input Measurement</option>
+              <option *ngFor="let temp of dropdown">{{temp}}</option>
+            </select>
+
           </div>
         </div>
         <div class="row">
           <div class="form-group col-md-12">
             <label for="exampleToMeasurement">To Unit of Measurement</label>
-            <input type="text" class="form-control" formControlName="toMeasurement" id="exampleToMeasurement" aria-describedby="emailHelp" placeholder="To Unit Measurement">
+            <!--  <input type="text" class="form-control" formControlName="toMeasurement" id="exampleToMeasurement"  placeholder="To Unit Measurement"> -->
+            <select  class="form-control" formControlName="toMeasurement" id="exampleToMeasurement" >
+            <option disabled>Select To Unit Measurement</option>
+            <option *ngFor="let temp of dropdown">{{temp}}</option>
+            </select>
           </div>
         </div>
         <div class="row">
           <div class="form-group col-md-12">
             <label for="exampleWrittenValue">Written Value</label>
-            <input type="text" class="form-control" formControlName="writtenValue" id="exampleWrittenValue" aria-describedby="emailHelp" placeholder="Written Value">
+            <input type="text" class="form-control" formControlName="writtenValue" id="exampleWrittenValue"
+              aria-describedby="emailHelp" placeholder="Written Value">
           </div>
         </div>
+
         <button type="submit" [disabled]="!unitForm.valid" class="btn btn-danger">CheckConversion</button>
       </form>
+      <div class="row">
+        {{result}}
+      </div>
     </div>
 
   </div>

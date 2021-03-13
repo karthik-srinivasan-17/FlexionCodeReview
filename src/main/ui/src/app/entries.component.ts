@@ -7,11 +7,11 @@ import { Component, OnInit, Input } from '@angular/core';
 })
 export class EntriesComponent implements OnInit {
 
-  constructor() { 
-     this.entries = [];
+  constructor() {
+    this.entries = [];
   }
 
-   @Input() entries: any[];
+  @Input() entries: any[];
 
   ngOnInit(): void {
   }

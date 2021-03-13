@@ -25,6 +25,7 @@ public class UnitConversionController {
 		Entries resource = new Entries();
 		resource = ucService.checkConversion(entries);
 		return ResponseEntity.ok(resource);
+
 	}
 
 }
