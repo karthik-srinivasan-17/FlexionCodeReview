@@ -33,7 +33,7 @@
 		<dependency>
 			<groupId>com.querydsl</groupId>
 			<artifactId>querydsl-apt</artifactId>
-			 </dependency>
+		</dependency>
 		<dependency>
 			<groupId>com.querydsl</groupId>
 			<artifactId>querydsl-jpa</artifactId>
@@ -95,5 +95,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
