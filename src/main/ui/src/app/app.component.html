@@ -1,80 +1,104 @@
 <app-header></app-header>
 
 <div>
-  
-         <div> <h2 >Unit Conversion Check</h2></div>
+
+
   <div class="container-fluid">
-
-    <div class="row">
-      <div class="col-sm-8">
-
-        <form [formGroup]="unitForm" (ngSubmit)="onSubmit()">
-  
-
-   
-     <div class="form-group ">
-             <label for="exampleConvertionType">Select the type of conversion &nbsp; : </label>
-              <select class="form-control" formControlName="conversionType" id="exampleConvertionType"
-                (change)="changeUnit($event)">
-                <option disabled selected value>Select Type of Conversion</option>
-                <option *ngFor="let type of type">{{type}}</option>
-              </select>
-            </div>
-
-
-           
-            <div class="form-group">
-              <label for="exampleAskedValue">Asked Value in Exam &nbsp; : </label>
-              <input type="text" class="form-control" formControlName="askedValue" id="exampleAskedValue"
-                placeholder="Asked Value">
-            </div>
-            <div class="form-group">
-              <label for="exampleFromMeasurement">From Unit of Measurement &nbsp; : </label>
-              <!--  <input type="text" class="form-control" formControlName="fromMeasurement" id="exampleFromMeasurement" placeholder="From Unit Measurement"> -->
-              <select class="form-control" formControlName="fromMeasurement" id="exampleFromMeasurement">
-                <option disabled selected value>Select Input Measurement</option>
-                <option *ngFor="let temp of dropdown">{{temp}}</option>
-              </select>
-            </div>
-
-
-            <div class="form-group">
-
-              <label for="exampleToMeasurement">To Unit of Measurement &nbsp; : </label>
-              <!--  <input type="text" class="form-control" formControlName="toMeasurement" id="exampleToMeasurement"  placeholder="To Unit Measurement"> -->
-              <select class="form-control" formControlName="toMeasurement" id="exampleToMeasurement">
-                <option disabled selected value>Select To Unit Measurement</option>
-                <option *ngFor="let temp of dropdown">{{temp}}</option>
-              </select>
-            </div>
-
-
-
-            <div class="form-group">
-              <label for="exampleWrittenValue">Written Value &nbsp; : </label>
-              <input type="text" class="form-control" formControlName="writtenValue" id="exampleWrittenValue"
-                placeholder="Written Value">
-
-
-             
-            </div>
-   
-           <input type="submit" [disabled]="!unitForm.valid" value="Check Conversion" class="btn btn-danger">
-        </form>
-        
-      </div>
-      <div class="col-sm-4">
-        <div class="div2"><h1 >{{result}}</h1>  </div>
-      </div>
+    <div>
+      <h2>Unit Conversion Checker</h2>
     </div>
 
+    <div class="row">
+      <div class="col-md-8">
+
+        <form [formGroup]="unitForm" (ngSubmit)="onSubmit()">
+
+
+
+          <div class="form-group ">
+            <label for="exampleConvertionType">Select the Type of Conversion &nbsp; : </label>
+            <select class="form-control" formControlName="conversionType" id="exampleConvertionType"
+              (change)="changeUnit($event)">
+              <option [ngValue]="null" disabled selected value>Select Type of Conversion</option>
+              <option *ngFor="let type of type">{{type}}</option>
+            </select>
+          </div>
+
+
+
+          <div class="form-group">
+            <label for="exampleAskedValue">Asked Value in the Exam &nbsp; : </label>
+            <input type="text" class="form-control" formControlName="askedValue" id="exampleAskedValue"
+              placeholder="Asked Value">
+          </div>
+          <div class="form-group">
+            <label for="exampleFromMeasurement">From Unit of Measurement &nbsp; : </label>
+            <!--  <input type="text" class="form-control" formControlName="fromMeasurement" id="exampleFromMeasurement" placeholder="From Unit Measurement"> -->
+            <select class="form-control" formControlName="fromMeasurement" id="exampleFromMeasurement">
+              <option [ngValue]="null" disabled selected value>Select Input Measurement</option>
+              <option *ngFor="let temp of dropdown">{{temp}}</option>
+            </select>
+          </div>
+
+
+          <div class="form-group">
+
+            <label for="exampleToMeasurement">To Unit of Measurement &nbsp; : </label>
+            <!--  <input type="text" class="form-control" formControlName="toMeasurement" id="exampleToMeasurement"  placeholder="To Unit Measurement"> -->
+            <select class="form-control" formControlName="toMeasurement" id="exampleToMeasurement">
+              <option [ngValue]="null" disabled selected value>Select To Unit Measurement</option>
+              <option *ngFor="let temp of dropdown">{{temp}}</option>
+            </select>
+          </div>
+
+
+
+          <div class="form-group">
+            <label for="exampleWrittenValue">Student Written Value in the Exam &nbsp; : </label>
+            <input type="text" class="form-control" formControlName="writtenValue" id="exampleWrittenValue"
+              placeholder="Written Value">
+
+
+
+          </div>
+
+          <input type="submit" [disabled]="!unitForm.valid" value="Check Conversion" class="btn btn-danger">
+        </form>
+
+      </div>
+  <h1>Result</h1>
+      
+      <div class="col-md-4 ">
+
+        <div *ngIf="result==''" class="div2" [ngStyle]="{'background-color':'grey'}">
+          <p>{{result}}</p>
+        </div>
+
+        <div *ngIf="result=='CORRECT'" class="div2" [ngStyle]="{'background-color':'green'}">
+          <p>{{result}}</p>
+        </div>
+
+        <div *ngIf="result=='INCORRECT'" class="div2" [ngStyle]="{'background-color':'red'}">
+          <p>{{result}}</p>
+        </div>
+
+        <div *ngIf="result=='INVALID'" class="div2" [ngStyle]="{'background-color':'yellow'}">
+          <p>{{result}}</p>
+        </div>
+
+        <div>&nbsp;</div>
+        <app-view-all-entries [unitCount]="unitCount" (getUnitEvent)="getAllEntries()">
+        </app-view-all-entries>
+      </div>
+    </div>
   </div>
 
 
 
 </div>
+<div class="col-md-4 mrgnbtm">
 
-
+</div>
 
 <div class="marginB">
   <app-entries *ngIf="entries.length !== 0" [entries]="entries"></app-entries>

@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { FormGroup, FormControl, Validators } from '@angular/forms';
 import { AppService } from './app.service';
+import { Entries } from './entries.model';
 import { takeUntil } from 'rxjs/operators';
 import { Subject } from 'rxjs';
 
@@ -46,11 +47,9 @@ export class AppComponent {
   // tslint:disable-next-line: typedef
   onSubmit() {
     this.result = '';
-    this.appService.checkConversion(this.unitForm.value, this.unitCount + 1).pipe(takeUntil(this.destroy$)).subscribe(data => {
-      console.log('message::::', data);
-      this.unitCount = this.unitCount + 1;
-      console.log(this.unitCount);
+    this.appService.checkConversion(this.unitForm.value).pipe(takeUntil(this.destroy$)).subscribe(data => {
       this.unitForm.reset();
+      this.unitCount++;
       Object.entries(data).forEach(([key, val]) => {
         if (key === 'result') {
           this.result = val;
@@ -60,6 +59,31 @@ export class AppComponent {
     });
   }
 
+  // tslint:disable-next-line: typedef
+  getAllEntries() {
+    this.unitCount = 0;
+    this.entries = [];
+    this.appService.getEntries().pipe(takeUntil(this.destroy$)).subscribe(data => {
 
+      Object.entries(data).forEach((val) => {
+        this.unitCount++;
+        this.entries.push(val[1]);
+      });
+
+    });
+
+  }
+
+  // tslint:disable-next-line: use-lifecycle-interface
+  ngOnDestroy() {
+    this.destroy$.next(true);
+    this.destroy$.unsubscribe();
+    this.unitForm.reset();
+  }
+  // tslint:disable-next-line: use-lifecycle-interface
+  ngOnInit() {
+    this.getAllEntries();
+
+  }
 
 }

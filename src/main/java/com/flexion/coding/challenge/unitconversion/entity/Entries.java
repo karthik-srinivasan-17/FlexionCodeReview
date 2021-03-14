@@ -3,27 +3,24 @@ package com.flexion.coding.challenge.unitconversion.entity;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 
-
 import javax.persistence.Column;
 import javax.persistence.Id;
 import javax.validation.constraints.NotNull;
 
 import lombok.Data;
 
-
 @Entity
 @Data
 public class Entries {
 
-	
 	@Id
 	@Column
 	@GeneratedValue
 	public long id;
 	@Column
 	@NotNull
-	public String ConversionType;
-	
+	public String conversionType;
+
 	@Column
 	@NotNull
 	public String fromMeasurement;
@@ -89,10 +86,11 @@ public class Entries {
 	}
 
 	public String getConversionType() {
-		return ConversionType;
+		return conversionType;
 	}
 
 	public void setConversionType(String conversionType) {
-		ConversionType = conversionType;
+		this.conversionType = conversionType;
 	}
+
 }

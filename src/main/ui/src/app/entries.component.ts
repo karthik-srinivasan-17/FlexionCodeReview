@@ -8,10 +8,10 @@ import { Component, OnInit, Input } from '@angular/core';
 export class EntriesComponent implements OnInit {
 
   constructor() {
-    this.entries = [];
+
   }
 
-  @Input() entries: any[];
+  @Input() entries: any[] | undefined;
 
   ngOnInit(): void {
   }

@@ -1,5 +1,7 @@
 package com.flexion.coding.challenge.unitconversion.service;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
@@ -27,7 +29,7 @@ public class UnitConversionService {
 					Double.parseDouble(entries.getAskedValue()), Double.parseDouble(entries.getWrittenValue()));
 		} catch (NullPointerException | NumberFormatException e) {
 			entries.setResult("INVALID");
-			return entries;
+			return unitConversionRepository.save(entries);
 		}
 
 		if (validate) {
@@ -38,4 +40,10 @@ public class UnitConversionService {
 
 		return unitConversionRepository.save(entries);
 	}
+	
+	
+	  public List<Entries> getAllEntries() {
+	        return unitConversionRepository.findAll();
+	    }
+	    
 }

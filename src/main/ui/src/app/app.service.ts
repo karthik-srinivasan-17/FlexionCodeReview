@@ -11,9 +11,13 @@ export class AppService {
   rootURL = '/api';
 
   // tslint:disable-next-line: typedef
-  checkConversion(entry: any, id: number) {
-    entry.id = id;
+  checkConversion(entry: any) {
     return this.http.post(this.rootURL + '/entry', entry);
+  }
+
+    // tslint:disable-next-line: typedef
+  getEntries() {
+    return this.http.get(this.rootURL + '/listEntries');
   }
 
 }

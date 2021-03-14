@@ -8,12 +8,14 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HeaderComponent } from './header/header.component';
+import { ViewAllEntriesComponent } from './view-all-entries/view-all-entries.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     EntriesComponent,
-    HeaderComponent
+    HeaderComponent,
+    ViewAllEntriesComponent
   ],
   imports: [
     FormsModule,
