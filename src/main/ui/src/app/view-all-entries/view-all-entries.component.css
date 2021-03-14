@@ -1,0 +1,11 @@
+.app-view-all-entries {
+  width: 100%;
+  background-color: #4CAF50;
+  padding: 5%;
+}
+
+.number {
+  color: red;
+  font-size: 75px;
+  text-align: center;
+}

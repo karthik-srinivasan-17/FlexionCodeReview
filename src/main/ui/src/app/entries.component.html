@@ -1,0 +1,27 @@
+<div class="container">
+  <h2>Entries</h2>
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Conversion Type</th>
+        <th>From Unit Measurement</th>
+		<th>To Unit Measurement</th>
+			<th>Asked Value</th>
+			  <th>Written Value</th>
+			    <th>Result</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let entry of entries; let i = index">
+        <td>{{entry.id}}</td>
+        <td>{{entry.conversionType}}</td>
+        <td>{{entry.fromMeasurement}}</td>
+		<td>{{entry.toMeasurement}}</td>
+			  <td>{{entry.askedValue}}</td>
+					<td>{{entry.writtenValue}}</td>
+					 <td>{{entry.result}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
