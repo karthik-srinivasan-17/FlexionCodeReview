@@ -17,6 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+       
             "outputPath": "dist/ui",
             "index": "src/index.html",
             "main": "src/main.ts",
@@ -66,11 +67,12 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
             "browserTarget": "ui:build",
-            "proxyConfig":"proxy.conf.json"
+            "proxyConfig":"proxy-local.conf.json"
           },
           "configurations": {
             "production": {
-              "browserTarget": "ui:build:production"
+              "browserTarget": "ui:build:production",
+              "proxyConfig":"proxy-prod.conf.json"
             }
           }
         },
