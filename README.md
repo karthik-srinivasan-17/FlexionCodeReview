@@ -50,7 +50,7 @@ Backend Application.
 6) Open any browser and go to "http://YourWebServerDNS:8080/UnitConversion-2.0/", You should see a HTML page which "This is index.html". This confirms backend application is running properly. ( Please note that "YourWebServerDNS" in the URL is the hostname of prod server, please change it accordingly) 
 
 Front End Application. 
-1) Open command prompt or terminal or explorer, Go to ${YourCopiedDirectory}\FlexionCodeReview\src\main\ui\src folder, Under the folder, please open the file "environment.prod.ts" using notepad or vi editor or any editor of your choice. 
+1) Open command prompt or terminal or explorer, Go to ${YourCopiedDirectory}\FlexionCodeReview\src\main\ui\src\environments folder, Under the folder, please open the file "environment.prod.ts" using notepad or vi editor or any editor of your choice. 
 2) Change the apiUrl to above URL where the WAR file was deployed like  "apiUrl": "http://YourWebServerDNS:8080/UnitConversion-2.0".
 (Please note that "YourWebServerDNS" in the URL is the hostname of prod server, please change it accordingly) 
 3) Open command prompt or terminal, go to ${YourCopiedDirectory}\FlexionCodeReview\src\main\ui
@@ -62,14 +62,16 @@ Front End Application.
 
 Some of Common issue you may experience during PROD installation. 
 
-1) My UI application deployed on Prod server is not working. 
+1) My UI application deployed on Prod tomcat server is not working. 
 
-a) Please make sure the apiUrl in  "environment.prod.ts" is updated properly. 
+a) Please make sure the apiUrl in  "environment.prod.ts" is updated properly. Check your webserver port number. 
 b) Please make sure that there is no '/' at the end the apiUrl in  "environment.prod.ts"
 c) If you are running Tomcat, please make sure the value 'Valve className="org.apache.catalina.valves.rewrite.RewriteValve' is present in host element of server.xml under ${TomcatDirectory}\conf\ folder
-d) Also If you are running Tomcat, please make sure you have the rewrite.config file under ${TomcatDirectory}\conf\Catalina\localhost. Please add the rule as shown below.
-RewriteCond %{REQUEST_PATH} !-f   		 	
-RewriteRule ^/ui/(.*) /ui/index.html 
+d) Also If you are running Tomcat, please make sure you have the rewrite.config file under ${TomcatDirectory}\conf\Catalina\localhost. Please add the rule as shown below. 
+   
+	RewriteCond %{REQUEST_PATH} !-f   
+		 	
+	RewriteRule ^/ui/(.*) /ui/index.html 
 
 Please refer below link for Deep linking issues with Angular Application. 
 
@@ -86,7 +88,7 @@ Next Developement task
 7) Better documentation, more logs, 
 
 AWS Code - pipeline used for CI/CD process. Various stages has been created already. 
-1) Source Stage - As soon as you push the code to GITHUB, Code-pipeline picks it up.(Done) 
+1) Source Stage - As soon as you push the code to GITHUB, Code-pipeline picks it up A hook is setup(Done) 
 2) Test Stage -  AWS Code Build runs all the test cases using maven. (Done) 
 3) Manual Approval Stage -  AWS Code -PipeLine wait for the manual approval. SNS is setup for sending emails. (Done) 
 4) Build Stage - AWS Code build is used for build the War file and dist folder. (Done) 
