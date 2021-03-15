@@ -3,6 +3,8 @@ package com.flexion.coding.challenge.unitconversion.entity;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 
+import java.io.Serializable;
+
 import javax.persistence.Column;
 import javax.persistence.Id;
 import javax.validation.constraints.NotNull;
@@ -11,8 +13,13 @@ import lombok.Data;
 
 @Entity
 @Data
-public class Entries {
+public class Entries implements Serializable {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	
 	@Id
 	@Column
 	@GeneratedValue
