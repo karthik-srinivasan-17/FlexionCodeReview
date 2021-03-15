@@ -15,6 +15,7 @@ export class ViewAllEntriesComponent implements OnInit {
   ngOnInit(): void {
   }
 
+    // tslint:disable-next-line: typedef
     getAllEntries() {
     this.getUnitEvent.emit('get all Units');
   }
