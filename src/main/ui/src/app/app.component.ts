@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { FormGroup, FormControl, Validators } from '@angular/forms';
 import { AppService } from './app.service';
-import { Entries } from './entries.model';
 import { takeUntil } from 'rxjs/operators';
 import { Subject } from 'rxjs';
 
