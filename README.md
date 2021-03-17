@@ -11,7 +11,7 @@ NPM : 6.14.5,
 
 Backend Pre-Installation  Requirement ---
 openjdk version "1.8.0_282",
-Apache Maven 3.1.1 
+Apache Maven 3.6.3 
 
 To test the front end requirement please open command prompt or terminal and run these commands
 Angular CLI : "ng v", Node :"node -v", NPM: "npm -v"
