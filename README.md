@@ -2,7 +2,7 @@
 
 The Application is written in Client - Server Architecture model
 
-Frontend of the application is written in AngularJS, Backend of the Application is written in Spring Boot
+Frontend of the application is written in Angular, Backend of the Application is written in Spring Boot
 
 Front End Pre-Installation Requirment --- 
 Angular CLI: 12.0.0-next.4,
