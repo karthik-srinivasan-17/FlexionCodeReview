@@ -1,0 +1,2250 @@
+[INFO ] 16-03-2021 02:05:02.428 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Starting UnitConversionControllerTests using Java 1.8.0_251 on Laptop-Home with PID 4160 (started by kshpo in C:\Users\kshpo\Desktop\Flexion\FlexionCodeReview)
+[INFO ] 16-03-2021 02:05:02.428 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Starting UnitConversionControllerTests using Java 1.8.0_251 on Laptop-Home with PID 4160 (started by kshpo in C:\Users\kshpo\Desktop\Flexion\FlexionCodeReview)
+[INFO ] 16-03-2021 02:05:02.428 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Starting UnitConversionControllerTests using Java 1.8.0_251 on Laptop-Home with PID 4160 (started by kshpo in C:\Users\kshpo\Desktop\Flexion\FlexionCodeReview)
+[DEBUG] 16-03-2021 02:05:02.429 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+[DEBUG] 16-03-2021 02:05:02.429 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+[DEBUG] 16-03-2021 02:05:02.429 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 16-03-2021 02:05:02.431 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - No active profile set, falling back to default profiles: default
+[INFO ] 16-03-2021 02:05:02.431 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - No active profile set, falling back to default profiles: default
+[INFO ] 16-03-2021 02:05:02.431 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - No active profile set, falling back to default profiles: default
+[INFO ] 16-03-2021 02:05:07.870 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Started UnitConversionControllerTests in 5.833 seconds (JVM running for 6.77)
+[INFO ] 16-03-2021 02:05:07.870 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Started UnitConversionControllerTests in 5.833 seconds (JVM running for 6.77)
+[INFO ] 16-03-2021 02:05:07.870 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Started UnitConversionControllerTests in 5.833 seconds (JVM running for 6.77)
+[INFO ] 16-03-2021 02:05:07.986 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:07.986 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:07.986 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:07.986 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:07.986 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:07.986 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:07.987 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:07.987 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:07.987 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:07.987 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:07.987 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:07.987 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:07.989 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:07.989 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:07.989 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 02:05:07.989 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:07.989 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:07.989 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:07.990 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:07.990 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:07.990 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:08.056 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 02:05:08.056 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 02:05:08.056 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 02:05:08.056 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 02:05:08.056 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 02:05:08.056 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 02:05:08.147 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:08.147 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:08.147 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:08.147 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 02:05:08.147 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 02:05:08.147 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[INFO ] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - FAHRENHEIT_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - FAHRENHEIT_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:08.168 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - FAHRENHEIT_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:08.169 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is FAHRENHEIT_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:08.169 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is FAHRENHEIT_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:08.169 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is FAHRENHEIT_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:08.171 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 02:05:08.171 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 02:05:08.171 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[ERROR] 16-03-2021 02:05:08.171 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 02:05:08.171 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 02:05:08.171 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 02:05:08.171 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 02:05:08.171 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 02:05:08.171 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[DEBUG] 16-03-2021 02:05:08.173 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:08.173 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:08.173 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:08.173 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 02:05:08.173 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 02:05:08.173 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[INFO ] 16-03-2021 02:05:08.178 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:08.178 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:08.178 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:08.178 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:08.178 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:08.178 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:08.178 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:08.178 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:08.178 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:08.178 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 02:05:08.178 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 02:05:08.178 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 02:05:08.179 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:08.179 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:08.179 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[DEBUG] 16-03-2021 02:05:08.179 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 02:05:08.179 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 02:05:08.179 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[INFO ] 16-03-2021 02:05:08.179 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 02:05:08.179 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 02:05:08.179 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[DEBUG] 16-03-2021 02:05:08.182 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 02:05:08.182 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 02:05:08.182 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 02:05:08.182 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 02:05:08.182 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 02:05:08.182 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 02:05:08.184 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:08.184 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:08.184 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:08.184 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 02:05:08.184 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 02:05:08.184 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 02:05:08.188 AM [main]
+				c.f.coding.challenge.unitconversion.AppController - in loadUI() method - Preliminary test done after successful deployment
+[DEBUG] 16-03-2021 02:05:08.188 AM [main]
+				c.f.coding.challenge.unitconversion.AppController - in loadUI() method - Preliminary test done after successful deployment
+[INFO ] 16-03-2021 02:05:08.194 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Unit Conversion Application Started
+[INFO ] 16-03-2021 02:05:08.194 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Unit Conversion Application Started
+[INFO ] 16-03-2021 02:05:08.232 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Starting UnitConversionApplication using Java 1.8.0_251 on Laptop-Home with PID 4160 (started by kshpo in C:\Users\kshpo\Desktop\Flexion\FlexionCodeReview)
+[INFO ] 16-03-2021 02:05:08.232 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Starting UnitConversionApplication using Java 1.8.0_251 on Laptop-Home with PID 4160 (started by kshpo in C:\Users\kshpo\Desktop\Flexion\FlexionCodeReview)
+[DEBUG] 16-03-2021 02:05:08.232 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[DEBUG] 16-03-2021 02:05:08.232 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 16-03-2021 02:05:08.232 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - No active profile set, falling back to default profiles: default
+[INFO ] 16-03-2021 02:05:08.232 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - No active profile set, falling back to default profiles: default
+[INFO ] 16-03-2021 02:05:09.881 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Started UnitConversionApplication in 1.685 seconds (JVM running for 8.781)
+[INFO ] 16-03-2021 02:05:09.881 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Started UnitConversionApplication in 1.685 seconds (JVM running for 8.781)
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:09.888 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:09.890 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 02:05:09.890 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 02:05:09.890 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 02:05:09.891 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 02:05:09.891 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 02:05:09.891 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 02:05:09.893 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:09.893 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:09.893 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:09.893 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 02:05:09.893 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 02:05:09.893 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[INFO ] 16-03-2021 02:05:09.897 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:09.897 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:09.897 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:09.898 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:09.900 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 02:05:09.900 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 02:05:09.900 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 02:05:09.900 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 02:05:09.900 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 02:05:09.900 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[DEBUG] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 02:05:09.902 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[DEBUG] 16-03-2021 02:05:09.904 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 02:05:09.904 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 02:05:09.904 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 02:05:09.904 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 02:05:09.904 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 02:05:09.904 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 02:05:09.906 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:09.906 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:09.906 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:09.906 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 02:05:09.906 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 02:05:09.906 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[INFO ] 16-03-2021 02:05:09.906 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - Getting All entries 
+[INFO ] 16-03-2021 02:05:09.906 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - Getting All entries 
+[INFO ] 16-03-2021 02:05:09.906 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - Getting All entries 
+[DEBUG] 16-03-2021 02:05:10.043 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - All entries size is : 6
+[DEBUG] 16-03-2021 02:05:10.043 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - All entries size is : 6
+[DEBUG] 16-03-2021 02:05:10.043 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - All entries size is : 6
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[DEBUG] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 02:05:10.047 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[DEBUG] 16-03-2021 02:05:10.049 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 02:05:10.049 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 02:05:10.049 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 02:05:10.049 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 02:05:10.049 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 02:05:10.049 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 02:05:10.051 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:10.051 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:10.051 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:10.051 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 02:05:10.051 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 02:05:10.051 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[INFO ] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  null
+[INFO ] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  null
+[INFO ] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  null
+[INFO ] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  null
+[INFO ] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  null
+[INFO ] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  null
+[INFO ] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - conversionType is null 
+[INFO ] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - conversionType is null 
+[INFO ] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - conversionType is null 
+[ERROR] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 02:05:10.055 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[INFO ] 16-03-2021 02:05:10.072 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 02:05:10.072 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 02:05:10.072 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 02:05:10.073 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 02:05:10.073 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 02:05:10.073 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 02:05:10.073 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:10.073 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:10.073 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[ERROR] 16-03-2021 02:05:10.073 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 02:05:10.073 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 02:05:10.073 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 02:05:10.073 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 02:05:10.073 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 02:05:10.073 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[DEBUG] 16-03-2021 02:05:10.074 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:10.074 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:10.074 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:10.074 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 02:05:10.074 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 02:05:10.074 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[INFO ] 16-03-2021 02:05:10.077 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:10.077 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:10.077 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:10.078 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:10.080 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 02:05:10.080 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 02:05:10.080 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[ERROR] 16-03-2021 02:05:10.080 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 02:05:10.080 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 02:05:10.080 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 02:05:10.080 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 02:05:10.080 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 02:05:10.080 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[DEBUG] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 02:05:10.081 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 02:05:10.083 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 02:05:10.083 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 02:05:10.083 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[ERROR] 16-03-2021 02:05:10.083 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 02:05:10.083 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 02:05:10.083 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 02:05:10.083 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 02:05:10.083 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 02:05:10.083 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[DEBUG] 16-03-2021 02:05:10.096 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:10.096 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:10.096 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 02:05:10.096 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 02:05:10.096 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 02:05:10.096 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[INFO ] 16-03-2021 10:48:56.915 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Starting UnitConversionControllerTests using Java 1.8.0_282 on Laptop-Home with PID 39172 (started by kshpo in C:\Users\kshpo\Desktop\Flexion\FlexionCodeReview)
+[INFO ] 16-03-2021 10:48:56.915 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Starting UnitConversionControllerTests using Java 1.8.0_282 on Laptop-Home with PID 39172 (started by kshpo in C:\Users\kshpo\Desktop\Flexion\FlexionCodeReview)
+[INFO ] 16-03-2021 10:48:56.915 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Starting UnitConversionControllerTests using Java 1.8.0_282 on Laptop-Home with PID 39172 (started by kshpo in C:\Users\kshpo\Desktop\Flexion\FlexionCodeReview)
+[DEBUG] 16-03-2021 10:48:56.916 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+[DEBUG] 16-03-2021 10:48:56.916 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+[DEBUG] 16-03-2021 10:48:56.916 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 16-03-2021 10:48:56.918 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - No active profile set, falling back to default profiles: default
+[INFO ] 16-03-2021 10:48:56.918 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - No active profile set, falling back to default profiles: default
+[INFO ] 16-03-2021 10:48:56.918 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - No active profile set, falling back to default profiles: default
+[INFO ] 16-03-2021 10:49:02.596 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Started UnitConversionControllerTests in 6.055 seconds (JVM running for 7.969)
+[INFO ] 16-03-2021 10:49:02.596 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Started UnitConversionControllerTests in 6.055 seconds (JVM running for 7.969)
+[INFO ] 16-03-2021 10:49:02.596 AM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Started UnitConversionControllerTests in 6.055 seconds (JVM running for 7.969)
+[INFO ] 16-03-2021 10:49:02.724 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:02.724 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:02.724 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:02.724 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:02.724 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:02.724 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:02.725 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:02.725 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:02.725 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:02.725 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:02.725 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:02.725 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:02.726 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:02.726 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:02.726 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 10:49:02.726 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:02.726 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:02.726 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:02.727 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:02.727 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:02.727 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:02.816 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 10:49:02.816 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 10:49:02.816 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 10:49:02.816 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 10:49:02.816 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 10:49:02.816 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 10:49:02.912 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:02.912 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:02.912 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:02.912 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 10:49:02.912 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 10:49:02.912 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - FAHRENHEIT_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - FAHRENHEIT_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - FAHRENHEIT_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is FAHRENHEIT_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is FAHRENHEIT_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:02.936 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is FAHRENHEIT_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:02.940 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 10:49:02.940 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 10:49:02.940 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[ERROR] 16-03-2021 10:49:02.940 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 10:49:02.940 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 10:49:02.940 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 10:49:02.940 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 10:49:02.940 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 10:49:02.940 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[DEBUG] 16-03-2021 10:49:02.942 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:02.942 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:02.942 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:02.942 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 10:49:02.942 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 10:49:02.942 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[INFO ] 16-03-2021 10:49:02.947 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:02.947 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:02.947 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:02.947 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:02.947 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:02.947 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:02.947 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:02.947 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:02.947 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:02.947 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 10:49:02.947 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 10:49:02.947 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 10:49:02.947 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:02.947 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:02.947 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[DEBUG] 16-03-2021 10:49:02.948 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 10:49:02.948 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 10:49:02.948 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[INFO ] 16-03-2021 10:49:02.948 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 10:49:02.948 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 10:49:02.948 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[DEBUG] 16-03-2021 10:49:02.951 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 10:49:02.951 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 10:49:02.951 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 10:49:02.951 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 10:49:02.951 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 10:49:02.951 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 10:49:02.953 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:02.953 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:02.953 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:02.954 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 10:49:02.954 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 10:49:02.954 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 10:49:02.958 AM [main]
+				c.f.coding.challenge.unitconversion.AppController - in loadUI() method - Preliminary test done after successful deployment
+[DEBUG] 16-03-2021 10:49:02.958 AM [main]
+				c.f.coding.challenge.unitconversion.AppController - in loadUI() method - Preliminary test done after successful deployment
+[INFO ] 16-03-2021 10:49:02.963 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Unit Conversion Application Started
+[INFO ] 16-03-2021 10:49:02.963 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Unit Conversion Application Started
+[INFO ] 16-03-2021 10:49:02.992 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Starting UnitConversionApplication using Java 1.8.0_282 on Laptop-Home with PID 39172 (started by kshpo in C:\Users\kshpo\Desktop\Flexion\FlexionCodeReview)
+[INFO ] 16-03-2021 10:49:02.992 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Starting UnitConversionApplication using Java 1.8.0_282 on Laptop-Home with PID 39172 (started by kshpo in C:\Users\kshpo\Desktop\Flexion\FlexionCodeReview)
+[DEBUG] 16-03-2021 10:49:02.992 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[DEBUG] 16-03-2021 10:49:02.992 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 16-03-2021 10:49:02.992 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - No active profile set, falling back to default profiles: default
+[INFO ] 16-03-2021 10:49:02.992 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - No active profile set, falling back to default profiles: default
+[INFO ] 16-03-2021 10:49:04.695 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Started UnitConversionApplication in 1.73 seconds (JVM running for 10.067)
+[INFO ] 16-03-2021 10:49:04.695 AM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Started UnitConversionApplication in 1.73 seconds (JVM running for 10.067)
+[INFO ] 16-03-2021 10:49:04.702 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.702 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.702 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.702 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.702 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.702 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.702 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.702 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.702 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.702 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:04.702 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:04.702 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:04.703 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:04.703 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:04.703 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 10:49:04.703 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:04.703 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:04.703 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:04.703 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:04.703 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:04.703 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:04.706 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 10:49:04.706 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 10:49:04.706 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 10:49:04.707 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 10:49:04.707 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 10:49:04.707 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 10:49:04.710 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.710 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.710 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.710 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 10:49:04.710 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 10:49:04.710 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[INFO ] 16-03-2021 10:49:04.714 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.714 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.714 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.714 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.714 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.714 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.714 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.714 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.714 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.714 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:04.714 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:04.714 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:04.714 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:04.714 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:04.714 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 10:49:04.715 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:04.715 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:04.715 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:04.715 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:04.715 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:04.715 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:04.718 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 10:49:04.718 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 10:49:04.718 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 10:49:04.718 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 10:49:04.718 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 10:49:04.718 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 10:49:04.720 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.720 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.720 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.720 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 10:49:04.720 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 10:49:04.720 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[DEBUG] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 10:49:04.721 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[DEBUG] 16-03-2021 10:49:04.724 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 10:49:04.724 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 10:49:04.724 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 10:49:04.724 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 10:49:04.724 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 10:49:04.724 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 10:49:04.726 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.726 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.726 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.726 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 10:49:04.726 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 10:49:04.726 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[INFO ] 16-03-2021 10:49:04.726 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - Getting All entries 
+[INFO ] 16-03-2021 10:49:04.726 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - Getting All entries 
+[INFO ] 16-03-2021 10:49:04.726 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - Getting All entries 
+[DEBUG] 16-03-2021 10:49:04.921 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - All entries size is : 6
+[DEBUG] 16-03-2021 10:49:04.921 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - All entries size is : 6
+[DEBUG] 16-03-2021 10:49:04.921 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - All entries size is : 6
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[DEBUG] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 10:49:04.926 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[DEBUG] 16-03-2021 10:49:04.930 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 10:49:04.930 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 10:49:04.930 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 10:49:04.930 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 10:49:04.930 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 10:49:04.930 AM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 10:49:04.932 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.932 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.932 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.932 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 10:49:04.932 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 10:49:04.932 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[INFO ] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  null
+[INFO ] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  null
+[INFO ] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  null
+[INFO ] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  null
+[INFO ] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  null
+[INFO ] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  null
+[INFO ] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - conversionType is null 
+[INFO ] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - conversionType is null 
+[INFO ] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - conversionType is null 
+[ERROR] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 10:49:04.938 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[INFO ] 16-03-2021 10:49:04.960 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 10:49:04.960 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 10:49:04.960 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 10:49:04.960 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 10:49:04.960 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 10:49:04.960 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 10:49:04.960 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.960 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.960 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[ERROR] 16-03-2021 10:49:04.961 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 10:49:04.961 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 10:49:04.961 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 10:49:04.961 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 10:49:04.961 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 10:49:04.961 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[DEBUG] 16-03-2021 10:49:04.963 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.963 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.963 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.963 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 10:49:04.963 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 10:49:04.963 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:04.967 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:04.970 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 10:49:04.970 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 10:49:04.970 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[ERROR] 16-03-2021 10:49:04.970 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 10:49:04.970 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 10:49:04.970 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 10:49:04.970 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 10:49:04.970 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 10:49:04.970 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[DEBUG] 16-03-2021 10:49:04.972 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.972 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.972 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 10:49:04.973 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 10:49:04.977 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 10:49:04.977 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 10:49:04.977 AM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[ERROR] 16-03-2021 10:49:04.977 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 10:49:04.977 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 10:49:04.977 AM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 10:49:04.977 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 10:49:04.977 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 10:49:04.977 AM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[DEBUG] 16-03-2021 10:49:04.997 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.997 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.997 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 10:49:04.997 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 10:49:04.997 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 10:49:04.997 AM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[INFO ] 16-03-2021 04:47:56.397 PM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Starting UnitConversionControllerTests using Java 1.8.0_251 on Laptop-Home with PID 2456 (started by kshpo in C:\Users\kshpo\Desktop\Flexion\FlexionCodeReview)
+[INFO ] 16-03-2021 04:47:56.397 PM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Starting UnitConversionControllerTests using Java 1.8.0_251 on Laptop-Home with PID 2456 (started by kshpo in C:\Users\kshpo\Desktop\Flexion\FlexionCodeReview)
+[INFO ] 16-03-2021 04:47:56.397 PM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Starting UnitConversionControllerTests using Java 1.8.0_251 on Laptop-Home with PID 2456 (started by kshpo in C:\Users\kshpo\Desktop\Flexion\FlexionCodeReview)
+[DEBUG] 16-03-2021 04:47:56.397 PM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+[DEBUG] 16-03-2021 04:47:56.397 PM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+[DEBUG] 16-03-2021 04:47:56.397 PM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 16-03-2021 04:47:56.400 PM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - No active profile set, falling back to default profiles: default
+[INFO ] 16-03-2021 04:47:56.400 PM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - No active profile set, falling back to default profiles: default
+[INFO ] 16-03-2021 04:47:56.400 PM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - No active profile set, falling back to default profiles: default
+[INFO ] 16-03-2021 04:48:01.162 PM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Started UnitConversionControllerTests in 5.083 seconds (JVM running for 6.158)
+[INFO ] 16-03-2021 04:48:01.162 PM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Started UnitConversionControllerTests in 5.083 seconds (JVM running for 6.158)
+[INFO ] 16-03-2021 04:48:01.162 PM [main]
+				c.f.c.c.u.controller.UnitConversionControllerTests - Started UnitConversionControllerTests in 5.083 seconds (JVM running for 6.158)
+[INFO ] 16-03-2021 04:48:01.295 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:01.295 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:01.295 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:01.295 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:01.295 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:01.295 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:01.297 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:01.297 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:01.297 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:01.297 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:01.297 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:01.297 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:01.298 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:01.298 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:01.298 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 04:48:01.298 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:01.298 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:01.298 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:01.299 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:01.299 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:01.299 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:01.366 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 04:48:01.366 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 04:48:01.366 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 04:48:01.366 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 04:48:01.366 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 04:48:01.366 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 04:48:01.454 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:01.454 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:01.454 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:01.454 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 04:48:01.454 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 04:48:01.454 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[INFO ] 16-03-2021 04:48:01.475 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:01.475 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:01.475 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:01.475 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:01.475 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:01.475 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:01.475 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:01.475 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:01.475 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:01.475 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:01.475 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:01.475 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:01.476 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:01.476 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:01.476 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 04:48:01.476 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - FAHRENHEIT_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:01.476 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - FAHRENHEIT_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:01.476 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - FAHRENHEIT_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:01.476 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is FAHRENHEIT_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:01.476 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is FAHRENHEIT_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:01.476 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is FAHRENHEIT_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:01.478 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 04:48:01.478 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 04:48:01.478 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[ERROR] 16-03-2021 04:48:01.478 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 04:48:01.478 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 04:48:01.478 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 04:48:01.479 PM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 04:48:01.479 PM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 04:48:01.479 PM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[DEBUG] 16-03-2021 04:48:01.481 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:01.481 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:01.481 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:01.481 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 04:48:01.481 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 04:48:01.481 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[INFO ] 16-03-2021 04:48:01.487 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:01.487 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:01.487 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:01.487 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:01.487 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:01.487 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:01.487 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:01.487 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:01.487 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:01.487 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 04:48:01.487 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 04:48:01.487 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 04:48:01.487 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:01.487 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:01.487 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[DEBUG] 16-03-2021 04:48:01.488 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 04:48:01.488 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 04:48:01.488 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[INFO ] 16-03-2021 04:48:01.488 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 04:48:01.488 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 04:48:01.488 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[DEBUG] 16-03-2021 04:48:01.491 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 04:48:01.491 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 04:48:01.491 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 04:48:01.491 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 04:48:01.491 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 04:48:01.491 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 04:48:01.492 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:01.492 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:01.492 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:01.492 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 04:48:01.492 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 04:48:01.492 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 04:48:01.499 PM [main]
+				c.f.coding.challenge.unitconversion.AppController - in loadUI() method - Preliminary test done after successful deployment
+[DEBUG] 16-03-2021 04:48:01.499 PM [main]
+				c.f.coding.challenge.unitconversion.AppController - in loadUI() method - Preliminary test done after successful deployment
+[INFO ] 16-03-2021 04:48:01.505 PM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Unit Conversion Application Started
+[INFO ] 16-03-2021 04:48:01.505 PM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Unit Conversion Application Started
+[INFO ] 16-03-2021 04:48:01.537 PM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Starting UnitConversionApplication using Java 1.8.0_251 on Laptop-Home with PID 2456 (started by kshpo in C:\Users\kshpo\Desktop\Flexion\FlexionCodeReview)
+[INFO ] 16-03-2021 04:48:01.537 PM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Starting UnitConversionApplication using Java 1.8.0_251 on Laptop-Home with PID 2456 (started by kshpo in C:\Users\kshpo\Desktop\Flexion\FlexionCodeReview)
+[DEBUG] 16-03-2021 04:48:01.538 PM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[DEBUG] 16-03-2021 04:48:01.538 PM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 16-03-2021 04:48:01.538 PM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - No active profile set, falling back to default profiles: default
+[INFO ] 16-03-2021 04:48:01.538 PM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - No active profile set, falling back to default profiles: default
+[INFO ] 16-03-2021 04:48:03.095 PM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Started UnitConversionApplication in 1.588 seconds (JVM running for 8.091)
+[INFO ] 16-03-2021 04:48:03.095 PM [main]
+				c.f.c.c.unitconversion.UnitConversionApplication - Started UnitConversionApplication in 1.588 seconds (JVM running for 8.091)
+[INFO ] 16-03-2021 04:48:03.101 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.101 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.101 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:03.102 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:03.105 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 04:48:03.105 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 04:48:03.105 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 04:48:03.105 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 04:48:03.105 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 04:48:03.105 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 04:48:03.107 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.107 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.107 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.107 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 04:48:03.107 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 04:48:03.107 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[INFO ] 16-03-2021 04:48:03.111 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.111 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.111 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:03.112 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is CELSIUS_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:03.115 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 04:48:03.115 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 04:48:03.115 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 33.8
+[DEBUG] 16-03-2021 04:48:03.115 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 04:48:03.115 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 04:48:03.115 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - additional factor obtained from constants  - 32.8
+[DEBUG] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[DEBUG] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  CORRECT
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[DEBUG] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 04:48:03.117 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[DEBUG] 16-03-2021 04:48:03.120 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 04:48:03.120 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 04:48:03.120 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 04:48:03.120 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 04:48:03.120 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 04:48:03.120 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 04:48:03.121 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.121 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.121 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.121 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 04:48:03.121 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 04:48:03.121 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[INFO ] 16-03-2021 04:48:03.121 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - Getting All entries 
+[INFO ] 16-03-2021 04:48:03.121 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - Getting All entries 
+[INFO ] 16-03-2021 04:48:03.121 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - Getting All entries 
+[DEBUG] 16-03-2021 04:48:03.261 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - All entries size is : 6
+[DEBUG] 16-03-2021 04:48:03.261 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - All entries size is : 6
+[DEBUG] 16-03-2021 04:48:03.261 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController listEntries method - All entries size is : 6
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  VOLUME
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - VolumeImpl  Object created 
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - in VolumeImpl checkConversion method 
+[DEBUG] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[DEBUG] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - fromUnit to ToUnit is  - GALLON_to_LITER
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[INFO ] 16-03-2021 04:48:03.265 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is GALLON_to_LITER
+[DEBUG] 16-03-2021 04:48:03.267 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 04:48:03.267 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 04:48:03.267 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is 3.7854
+[DEBUG] 16-03-2021 04:48:03.267 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 04:48:03.267 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 04:48:03.267 PM [main]
+				c.f.c.challenge.unitconversion.factory.VolumeImpl - multiplier factor obtained from constants  - 3.7854
+[DEBUG] 16-03-2021 04:48:03.268 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.268 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.268 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.268 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 04:48:03.268 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[DEBUG] 16-03-2021 04:48:03.268 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INCORRECT
+[INFO ] 16-03-2021 04:48:03.272 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  null
+[INFO ] 16-03-2021 04:48:03.272 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  null
+[INFO ] 16-03-2021 04:48:03.272 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  null
+[INFO ] 16-03-2021 04:48:03.272 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  null
+[INFO ] 16-03-2021 04:48:03.272 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  null
+[INFO ] 16-03-2021 04:48:03.272 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  null
+[INFO ] 16-03-2021 04:48:03.272 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.272 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.272 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.272 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - conversionType is null 
+[INFO ] 16-03-2021 04:48:03.272 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - conversionType is null 
+[INFO ] 16-03-2021 04:48:03.272 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - conversionType is null 
+[ERROR] 16-03-2021 04:48:03.273 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 04:48:03.273 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 04:48:03.273 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 04:48:03.273 PM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 04:48:03.273 PM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 04:48:03.273 PM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[INFO ] 16-03-2021 04:48:03.291 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 04:48:03.291 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 04:48:03.291 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 04:48:03.291 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 04:48:03.291 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 04:48:03.291 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  Garbage Value
+[INFO ] 16-03-2021 04:48:03.291 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.291 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.291 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[ERROR] 16-03-2021 04:48:03.291 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 04:48:03.291 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 04:48:03.291 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 04:48:03.291 PM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 04:48:03.291 PM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 04:48:03.291 PM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[DEBUG] 16-03-2021 04:48:03.292 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.292 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.292 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.292 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 04:48:03.292 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 04:48:03.292 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:03.296 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:03.298 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 04:48:03.298 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 04:48:03.298 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[ERROR] 16-03-2021 04:48:03.298 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 04:48:03.298 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 04:48:03.298 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 04:48:03.298 PM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 04:48:03.298 PM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 04:48:03.298 PM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[DEBUG] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Type :  TEMPERATURE
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method 
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.challenge.unitconversion.factory.UnitFactory - in UnitFactory getUnitConvertorObject method - TemperatureImpl  Object created  
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - in TemperatureImpl checkConversion method 
+[DEBUG] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.c.unitconversion.factory.TemperatureImpl - fromUnit to ToUnit is  - Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[INFO ] 16-03-2021 04:48:03.299 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field Name searching is Garbage Value_to_FAHRENHEIT
+[DEBUG] 16-03-2021 04:48:03.301 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 04:48:03.301 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[DEBUG] 16-03-2021 04:48:03.301 PM [main]
+				c.f.c.challenge.unitconversion.utilities.Constants - in Constants class getValue method - Field value found is null
+[ERROR] 16-03-2021 04:48:03.301 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 04:48:03.301 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 04:48:03.301 PM [main]
+				c.f.c.c.u.service.UnitConversionService - in UnitConversionService checkConversion method - Exception handler :  
+[ERROR] 16-03-2021 04:48:03.301 PM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 04:48:03.301 PM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[ERROR] 16-03-2021 04:48:03.301 PM [main]
+				c.f.c.c.u.service.UnitConversionService - Exception :  java.lang.NullPointerException
+[DEBUG] 16-03-2021 04:48:03.314 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.314 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.314 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Entry has been saved to Database
+[DEBUG] 16-03-2021 04:48:03.314 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 04:48:03.314 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID
+[DEBUG] 16-03-2021 04:48:03.314 PM [main]
+				c.f.c.c.u.controller.UnitConversionController - in UnitConversionController checkConversion method - Result :  INVALID

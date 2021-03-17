@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
-
 	<appender name="STDOUT"
 		class="ch.qos.logback.core.ConsoleAppender">
 		<encoder>
@@ -19,9 +18,9 @@
 			class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
 			<fileNamePattern>./logs/archived/UnitConversion.%d{yyyy-MM-dd}.%i.log
 			</fileNamePattern>
-			<!-- each archived file, size max 10MB -->
+			<!-- each archived file, size max 1MB -->
 			<maxFileSize>1MB</maxFileSize>
-			<!-- total size of all archive files, if total size > 20GB, it will delete 
+			<!-- total size of all archive files, if total size > 10MB, it will delete 
 				old archived file -->
 			<totalSizeCap>10MB</totalSizeCap>
 			<!-- 60 days to keep -->

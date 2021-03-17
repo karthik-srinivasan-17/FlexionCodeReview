@@ -8,7 +8,6 @@ import org.slf4j.LoggerFactory;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.flexion.coding.challenge.unitconversion.factory.TemperatureImpl;
 
 @JsonAutoDetect(fieldVisibility = JsonAutoDetect.Visibility.ANY)
 public final class Constants implements Serializable {
@@ -63,8 +62,8 @@ public final class Constants implements Serializable {
 	public final Double CUBICFEET_to_LITER = 28.316846592;
 	public final Double CUBICFEET_to_TABLESPOON = 1915.0138895;
 	public final Double CUBICFEET_to_CUP = 119.6883681;
-	public static final Double CUBICFEET_to_CUBICINCH = 1728.0;
-	public static final Double CUBICFEET_to_GALLON = 7.480523006;
+	public final Double CUBICFEET_to_CUBICINCH = 1728.0;
+	public final Double CUBICFEET_to_GALLON = 7.480523006;
 
 	public static Double getValue(String fieldName) {
 		
