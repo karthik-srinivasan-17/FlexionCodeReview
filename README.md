@@ -1,5 +1,7 @@
 # FlexionCodeReview
 
+This Code was written to Flexion LLC interview process.
+
 The Application is written in Client - Server Architecture model
 
 Frontend of the application is written in Angular, Backend of the Application is written in Spring Boot
